@@ -26,3 +26,31 @@ After every move, the program checks:
 If a player has three in a row → declares a winner.
 
 If the board is full without a winner → declares a draw.
+
+
+🎯 Learning Objectives
+
+Applying 2D arrays in real-world problems.
+
+Understanding game logic and condition checking.
+
+Practice with loops, functions, and modular programming in C++.
+
+📸 Example Gameplay
+Player 1 (X) - Player 2 (O)
+
+ 1 | 2 | 3
+---+---+---
+ 4 | 5 | 6
+---+---+---
+ 7 | 8 | 9
+
+Player 1, enter a number: 5
+
+ X |   |  
+---+---+---
+   | O |  
+---+---+---
+   |   |  
+
+Winner: Player 1 🎉
